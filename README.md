@@ -6,7 +6,7 @@ I build calm, opinionated software that helps teams move faster without losing c
 
 - 🎨 **Creative:** Founder of [Studio Laussat](https://github.com/laussat-studio), exploring the intersection of geometry and watercolor.
 - 🛠 **Technical:** Lead at [Wrkstrm](https://github.com/wrkstrm), building the technical foundations for scalable apps.
-- 🌐 **Portfolio:** [rismay.github.io](https://rismay.github.io)
+- 🌐 **Portfolio:** [rismay.github.io/documentation/rismay](https://rismay.github.io/documentation/rismay)
 
 ### Current Focus
 - **CLIA:** An agentic CLI for human-centered automation.
