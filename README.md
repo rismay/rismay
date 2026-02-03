@@ -6,7 +6,7 @@ I build durable software that helps teams move faster without losing craft. My w
 
 - 🎨 **Creative:** Founder of [Studio Laussat](https://github.com/laussat-studio), exploring the intersection of architecture and system design.
 - 🛠 **Technical:** Lead at [Wrkstrm](https://github.com/wrkstrm), where I am building the technical foundations for scalable apps.
-- 🌐 **Portfolio:** [rismay.github.io/documentation/index](https://rismay.github.io/documentation/index)
+- 🌐 **Portfolio:** [rismay.github.io/documentation/index](https://rismay.me)
 
 ### Current Focus
 
