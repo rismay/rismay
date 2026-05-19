@@ -1,17 +1,21 @@
 # Hi, I'm Rismay
 
-**Product Engineer & Design-minded Builder.**
+**Founder building local-first tools for agents, data, and developer workflows.**
 
-I build durable software that helps teams move faster without losing craft. My work blends product engineering, design systems, and automation, with a focus on tools that make complex work feel simple.
+I build systems that help people keep custody of their data while making complex work easier to see, automate, and share. My work blends Swift apps, schema design, AI agents, and deployment pipelines.
 
-- 🎨 **Creative:** Founder of [Studio Laussat](https://github.com/laussat-studio), exploring the intersection of architecture and system design.
-- 🛠 **Technical:** Lead at [Wrkstrm](https://github.com/wrkstrm), where I am building the technical foundations for scalable apps.
-- 🌐 **Portfolio:** [rismay.github.io/documentation/index](https://rismay.me)
+- **Wrkstrm:** A substrate for local-first apps, typed schemas, compact models, and agent workflows.
+- **Vaults:** A local data home for credentials, private records, public shares, and provisioned access.
+- **CLIA:** Agentic command-line workflows for human-centered automation.
+- **Studio Laussat:** Architecture and visual-system experiments at the edge of design and software.
+- **Portfolio:** [rismay.me](https://rismay.me)
 
 ### Current Focus
 
-- **CLIA:** An agentic CLI for human-centered automation.
-- **CodeSwiftly:** Swift toolchain experiments and developer experience notes.
-- **Tau:** An Apple cross platform app for focused option trading workflows.
-- **Hacker News:** A simple Hacker News client for iOS that ships on all iOS devices since iOS 5.
-- **Wrkstrm Foundation:** Shared Swift foundations that power Wrkstrm apps and tooling.
+- **Moment / Timeline:** Compact time and location models for real-world event data.
+- **Map lenses:** Customizable timeline and map views for local personal data.
+- **Share pipelines:** Cloudflare Pages, GitHub Pages, and README surfaces that publish clean snapshots without exposing private source.
+- **Swift tooling:** Developer experience, DocC, Kura, and reusable foundations for Wrkstrm apps.
+- **Tau:** Apple platform workflows for focused market research and options analysis.
+
+Most of my work sits where product design, software infrastructure, and tools for thinking meet.
